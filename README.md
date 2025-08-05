@@ -1,16 +1,16 @@
 # Hi, I'm Yash 👋
 
-🚀 I'm a **Software Engineer Intern at Whatfix**, passionate about building efficient and scalable software solutions across the full stack. I love diving into new technologies and creating impactful products.
+🚀 I'm a **Software Engineer** passionate about building efficient and scalable software solutions across the full stack. Previously, I interned at Whatfix, where I contributed to impactful product development. I love exploring new technologies and creating meaningful digital experiences.
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 BTech in Computer Science  
-- 💻 Currently working on desktop applications using **C#, NW.js, and .NET**
+- 💻 Worked on desktop applications using **C#, NW.js, and .NET**
 - 🌐 Experienced in **React**, **Node.js**, **TypeScript**, **MongoDB**, **SQL**
-- 🔧 Also familiar with **C**, **C++**, **Java**, **JavaScript**
-- ⚙️ Skilled in **CI/CD**, **Selenium**, and **Jenkins**
+- 🔧 Also familiar with **C**, **C++**, **Java**, **JavaScript**, **Go/Golang**
+- ⚙️ Skilled in **CI/CD**, **Selenium**, **Docker** and **Jenkins**
 - 📚 Grinding LeetCode and improving my DSA skills
 
 ---
@@ -21,7 +21,7 @@
   [🔗 View Project](https://yashu212.github.io/Online_Compiler/) | [📂 Code](https://github.com/Yashu212/Online_Compiler)
 
 - **📺 Video Streaming Platform** – A microservice-based full stack project built for BOOM Entertainment  
-  [🔗 View Project](https://github.com/Yashu212/BoomVideos) | [📂 Code](https://yashu212.github.io/BoomVideos/)
+  [🔗 View Project](https://yashu212.github.io/BoomVideos/) | [📂 Code](https://github.com/Yashu212/BoomVideos)
 
 ---
 
@@ -29,6 +29,7 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
