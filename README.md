@@ -40,6 +40,13 @@
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
 
 ---
+## 💻 Coding Profiles
+
+- Leetcode: https://leetcode.com/yashuklaaa212/
+- Geeks For Geeks: https://www.geeksforgeeks.org/profile/yashuklaaa212
+- Coding Ninjas: https://www.naukri.com/code360/profile/2016a366-4434-4346-b04b-3a9019ff53ed
+- HackerRank: https://www.hackerrank.com/profile/yashuklaaa212
+---
 
 ## 📫 Let's Connect
 
